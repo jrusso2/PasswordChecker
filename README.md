@@ -3,7 +3,7 @@ This program utilizes the HaveIBeenPwned API to check if your passwords have bee
 It uses the k-anonymity model to ensure that your entire password is never sent to the API, making it theoretically
 more secure than using the actual website.
 
-###HOW IT WORKS
+### HOW IT WORKS
 
 ## 1. Password Hashing
     a. The input password is hashed using the SHA-1 algorithm
