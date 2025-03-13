@@ -18,5 +18,3 @@ more secure than using the actual website.
     a. The program checks if the suffix of your hashed password matches any of the returned suffixes from the API
     b. If a match is found, the associated breach count is displayed
 
-This project is altered from the Zero To Mastery python course. After completing the project during the course, I found it to be unintuitive 
-so I altered the main function to make it more user-friendly.
